@@ -175,12 +175,3 @@ A few important points for configuring Argo CD:
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-
-## Acknowledgements
-
-Thanks to [Abhishek Veeramalla](https://youtu.be/jNPGo6A4VHc)! for CI/CD workflow project idea.
-
-Source link: 
-
-IMPLEMENTING THE ULTIMATE CI/CD PIPELINE | LIVE DEMO| JENKINS END TO END PROJECT| BEST CICD PROJECT:
-https://youtu.be/JGQI5pkK82w
